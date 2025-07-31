@@ -1,0 +1,4 @@
+# This file is used to ignore datasets in the project
+# It is important to keep the datasets out of version control
+# so that we do not accidentally commit large files or sensitive information
+datasets/
